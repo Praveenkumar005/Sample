@@ -18,4 +18,11 @@ elif n%2==0:
       print("Not Weird")
 else:
    print("Weird")  
+
+
+
+def hello():
+    print("im second class")
+
+hello()
     
